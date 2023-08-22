@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome! I'm Rocco Matarazzo, a third year Master's in Statistics student at North Carolina State University.
 
-Maybe say a some things about yourself.
+I'm currently employed as a Junior Data Engineer for the Tampa Bay Rays.
 
-Or maybe what you plan to blog about.
+The goal of this blog is to explore and utilize GitHub, post about course topics, and code used in the ST558 course. 
