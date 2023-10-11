@@ -1,7 +1,7 @@
 ## Reflection on Project #2
-*This blog post will discuss my thoughts on Project #2*
-My GitHub pages link can be found here: https://roccomatarazzo.github.io/558_project2/
-My GitHub repo link can be found here: https://github.com/roccoMatarazzo/558_project2
+*This blog post will discuss my thoughts on Project #2*  
+My GitHub pages link can be found [here.](https://roccomatarazzo.github.io/558_project2/)  
+My GitHub repo link can be found [here.](https://github.com/roccoMatarazzo/558_project2)  
 
 When I began this project, my first goal was to get  an API with data that I could really understand. The MLB API was right up my alley. I also considered a some of the NBA APIs, but a few of them seemed to be out of commission. I ultimately wanted to build functions to return team statistics and player statistics. There wasn't much team data available, but I was pleased with the functions I created. I tried my best to leave as many comments as possible as well as definitions of potential inputs for each function. It's always helpful for me if I see a coded example and expected output of something I haven't used before.
 
