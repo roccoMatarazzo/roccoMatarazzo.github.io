@@ -1,1 +1,12 @@
-# ABC
+## Reflection on Project #2
+*This blog post will discuss my thoughts on Project #2*
+
+When I began this project, my first goal was to get  an API with data that I could really understand. The MLB API was right up my alley. I also considered a few of the NBA APIs, but a few of them seemed to be out of commission. I ultimately wanted to build functions to return team statistics and player statistics. There wasn't much team data available, but I was pleased with the functions I created.
+
+I was actually familiar with the structure of a lot of this data as it looks similar to some of the APIs I use at work for the Tampa Bay Rays. I enjoyed building the API functions. However, in the future I would probably select a different API. I felt like there was good data available, but not enough. I would've liked to have team-level statistics and also would've liked to pull a team's statistics directly from the API, rather than creating a function to loop through each player (and eventually bind them together for the team's statistics). Some other advanced statistics such as WAR and fielding statistics would've been a nice thing for the API to have too. Another thing I would've done differently was naming my repo and files. I had some trouble with committing/pushing.
+
+I did learn a lot about programming though. Although I consider myself to be a solid R programmer, I got even more comfortable nesting functions within one another. It was also nice to finally use "apply" and *really* understand how it works. For some reason that one always jumbles my brain! I'm also a huge fan of "facet_wrap()" on ggplots. I have seen this a few times at work, and of course learned about it in class, but never coded it in a real analysis. I learned about the **ggcorrplot()** package too. I never used this before and am looking forward to potentially applying it in the future. I think it can be a really nice plot addition for certain analyses. 
+
+In the actual EDA, I was shocked to see that BABIP and the other percentage variables (OBP, SLG, AVG) were not correlated. That was very interesting. After all, BABIP is batting average on balls in play, while AVG is just batting average -- so at the very least I expected some level of correlation there. I don't think my EDA was groundbreaking at all, and I think it could have been even stronger had there been more data available. I would've liked to do something along the lines of team winning% and team OBP%. Regardless of my EDA, I think Acuna should certainly win the MVP.
+
+Overall, I enjoyed the project and felt like I got stronger within R! I am looking forward to more projects like this in the future for sure. 
